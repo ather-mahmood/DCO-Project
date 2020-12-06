@@ -1,0 +1,42 @@
+source,target,ISO,value
+Empty,MPPEE,ven,1
+UNDP,MINEA,ven,1
+FAO,MPPEF,ven,1
+FAO,SUNAVAL,ven,1
+FAO,SUDEBAN,ven,1
+FAO,BCV,ven,1
+FAO,Gobernaciones y alcald¡as de zonas productivas,ven,1
+FAO,CODECYT,ven,1
+FAO,CONASEM,ven,1
+FAO,SEHIVECA,ven,1
+FAO,INIA,ven,1
+FAO,INN,ven,1
+FAO,MINMUJER,ven,1
+MPPEE,Pillar 1,ven,1
+MINEA,Pillar 1,ven,1
+MPPEF,Pillar 3,ven,1
+SUNAVAL,Pillar 3,ven,1
+SUDEBAN,Pillar 3,ven,1
+BCV,Pillar 3,ven,1
+Gobernaciones y alcald¡as de zonas productivas,Pillar 3,ven,1
+CODECYT,Pillar 3,ven,1
+CONASEM,Pillar 3,ven,1
+SEHIVECA,Pillar 3,ven,1
+INIA,Pillar 3,ven,1
+INN,Pillar 3,ven,1
+MINMUJER,Pillar 3,ven,1
+Pillar 1,Implementation,ven,1
+FAO,MPPAT,ven,2
+FAO,MINPPAL,ven,2
+FAO,MINCYT,ven,2
+FAO,MPPP,ven,2
+MPPAT,Pillar 3,ven,2
+MINPPAL,Pillar 3,ven,2
+MINCYT,Pillar 3,ven,2
+MPPP,Pillar 3,ven,2
+Pillar 1,Pipeline,ven,2
+Pillar 1,Completion,ven,2
+UNDP,MPPS,ven,3
+MPPS,Pillar 1,ven,3
+Pillar 3,Implementation,ven,10
+Pillar 3,Pipeline,ven,9
